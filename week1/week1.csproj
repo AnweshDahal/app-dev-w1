@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DoWhile.cs" />
+    <Compile Include="ForEach.cs" />
     <Compile Include="ForLoop.cs" />
     <Compile Include="IfElseStatement.cs" />
     <Compile Include="Program.cs" />

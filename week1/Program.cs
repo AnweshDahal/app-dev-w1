@@ -35,9 +35,16 @@ namespace week1
             //Console.WriteLine();
 
             // Do While Loop
-            DoWhile doWhile = new DoWhile();
-            doWhile.DWhile(20);
-            Console.WriteLine();
+            //DoWhile doWhile = new DoWhile();
+            //doWhile.DWhile(20);
+            //Console.WriteLine();
+
+
+            // For Each Loop
+
+            ForEach forEach = new ForEach();
+            //forEach.ForEachList();
+            forEach.ForEachArray();
 
             Console.ReadLine();
         }
