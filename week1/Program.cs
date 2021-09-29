@@ -10,24 +10,33 @@ namespace week1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("If Statement");
-            IfElseStatement ieStatement = new IfElseStatement();
-            ieStatement.IfStatement(5);
-            Console.WriteLine();
+            // If/ Else Conditional
 
-            Console.WriteLine("Switch Statement");
-            SwitchCase switchCase = new SwitchCase();
-            switchCase.Switch(11);
-            Console.WriteLine();
+            //IfElseStatement ieStatement = new IfElseStatement();
+            //ieStatement.IfStatement(5);
+            //Console.WriteLine();
 
-            Console.WriteLine("For Loop");
-            ForLoop forLoop = new ForLoop();
-            forLoop.FLoop(10);
-            Console.WriteLine();
+            // Switch Case Loop
 
-            Console.WriteLine("While Loop");
-            WhileLoop whileLoop = new WhileLoop();
-            whileLoop.Wloop(15);
+            //SwitchCase switchCase = new SwitchCase();
+            //switchCase.Switch(11);
+            //Console.WriteLine();
+
+            // For Loop
+
+            //ForLoop forLoop = new ForLoop();
+            //forLoop.FLoop(10);
+            //Console.WriteLine();
+
+            // While Loop
+
+            //WhileLoop whileLoop = new WhileLoop();
+            //whileLoop.Wloop(15);
+            //Console.WriteLine();
+
+            // Do While Loop
+            DoWhile doWhile = new DoWhile();
+            doWhile.DWhile(20);
             Console.WriteLine();
 
             Console.ReadLine();
