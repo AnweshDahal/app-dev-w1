@@ -42,9 +42,14 @@ namespace week1
 
             // For Each Loop
 
-            ForEach forEach = new ForEach();
+            //ForEach forEach = new ForEach();
             //forEach.ForEachList();
-            forEach.ForEachArray();
+            //forEach.ForEachArray();
+
+            // GoTo Statement
+
+            GoToStatement goToStatement = new GoToStatement();
+            goToStatement.GTStatement();
 
             Console.ReadLine();
         }

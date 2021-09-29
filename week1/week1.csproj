@@ -61,6 +61,7 @@
     <Compile Include="DoWhile.cs" />
     <Compile Include="ForEach.cs" />
     <Compile Include="ForLoop.cs" />
+    <Compile Include="GoToStatement.cs" />
     <Compile Include="IfElseStatement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
